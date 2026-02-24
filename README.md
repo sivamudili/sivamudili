@@ -1,6 +1,6 @@
 Hi, I'm Siva 👋
 
-Aspiring Software Developer | Software Testes | Java | Problem Solver | DSA Learner
+Aspiring Software Developer | Software Tester | Java | Problem Solver
 
 I am a passionate fresher interested in Java development and Software Testing. I enjoy solving coding problems, writing clean code, and understanding how applications work and how to test them effectively. I am actively building my skills by practicing programs and uploading them to GitHub.
 
